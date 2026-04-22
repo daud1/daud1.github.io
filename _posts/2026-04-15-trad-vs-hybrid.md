@@ -1,10 +1,8 @@
 ---
 layout: post
-title: trad & hybrid RAGs
+title: A comparison between 'traditional' and hybrid (graph) RAG applications
 date: 2026-04-15
 ---
-
-A comparison between 'traditional' and hybrid (graph) RAG applications
 
 I've recently come into some unscheduled downtime and have been trying to keep busy.
 One of the things I've been exploring is LLMs and generative applications. So, I took a short course targeted at developers and while exploring the material, I stumbled upon a few tutorials showing a way to enhance RAG output using knowledge graphs.
@@ -25,4 +23,4 @@ For a graph-RAG application however, you convert the document into a knowledge g
 
 Querying
 Next is finding the most relevant chunks to the query provided and supplying those to the llm for generation
-For a vector store, 
+most datastores come packaged with appropriate functionality to query the underlying data efficiently.

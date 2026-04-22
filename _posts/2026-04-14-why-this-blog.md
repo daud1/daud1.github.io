@@ -1,6 +1,4 @@
 ---
 layout: post
-title: why this blog
+title: Why I started this blog
 ---
-
-why this blog
