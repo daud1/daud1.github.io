@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title:
 ---
 
 I'm David Mwebaza and I like making software. 
