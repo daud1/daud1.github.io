@@ -3,12 +3,5 @@ title: daudi's
 author: David Mwebaza
 email: david.a.mwebaza@gmail.com
 description: work/personal-ish blog
-minima:
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/daud1"
-
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/david-mwebaza"
+github_username: daud1
+linkedin_username: david-mwebaza
