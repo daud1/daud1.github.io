@@ -1,3 +1,14 @@
 theme: minima
 title: daudi's
-description: daudi's blog
+author:
+  name: David Mwebaza
+  email: david.a.mwebaza@gmail.com
+description: work/personal-ish blog
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/daud1
+    - title: LinkedIn
+      icon: x-linkedin
+      url: https://linkedin.com/in/david-mwebaza
