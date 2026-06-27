@@ -24,6 +24,8 @@ The plan I've devised so far is as follows:
 3. Listen to specified keys that control the direction of the character
 4. Draw/undraw the path made by the player character to solve the maze.
 
+_See [this](https://github.com/daud1/cautious-octo-doodle.git) repo for the code._
+
 To draw the maze, I loop over the maze (2-dim numpy array) with an enumerator and draw the maze using spaces for the path and a character for the walls.
 The enumerator provides the indices that act as the co-ordinates to pass to Curses' `addstr` function.  
 Coincidentally, no transposition is needed since the matrix indices map to Curses' quirky (y,x) co-ordinate system. A few other considerations need to be made however. For one, drawing in the bottom right corner tends to raise an out-of-bounds error since Curses tries to advance the cursor after drawing every character.  
