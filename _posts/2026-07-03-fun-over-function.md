@@ -5,7 +5,7 @@ date: 2026-07-03
 ---
 
 While finishing my little terminal game was as easy as I predicted in the last post, I remain just as pleasantly surprised.  
-In the last post, I was able to draw a maze using an array of user-determined dimensions and the depth first algorithm to create a solvable path through. To complete it, I needed to add a player character and listen to the player's keystrokes that mapped to directions in the maze.  
+In the [last post](https://daud1.github.io/2026/06/27/fun-over-function.html), I was able to draw a maze using an array of user-determined dimensions and the depth first algorithm to create a solvable path through. To complete it, I needed to add a player character and listen to the player's keystrokes that mapped to directions in the maze.  
 Since the maze co-ordinates correspond to the array indices and Curses' quirky (y,x) co-ordinate system, all this is fairly straightforward to do with existing curses methods, `getch` and `addstr`. In a while loop, the flow goes as follows:  
 
 - listen for the arrow keystrokes from the player using `getch`
