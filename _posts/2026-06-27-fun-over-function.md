@@ -43,6 +43,6 @@ More improvements to the maze are probably needed for visual clarity e.g
 The second and third steps should be easy enough to do with the `getch` and `addstr` methods and I'll be tackling those next but for now this should do.
 
 'What the world needs more of, is for people to figure out who they are, so they can go out there and be that' - terrible paraphrasing of something I read once.  
-'The unexamined life is not worth living' - Socrates supposedly
+'The unexamined life is not worth living' - Socrates, supposedly.
 Letting my interest and curiosity guide me along has always been a more enjoyable and productive experience to me.
 Tinkering and trying to figure out things, is in this way, the most (but not only) important part of this. With that in mind, I'll stop this post here and get back to it.
